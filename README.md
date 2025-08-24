@@ -3,5 +3,6 @@ hi im ubg420<br>
 we make unblocked games(ubg), proxy and youtube (just scraping piped api)<br>
 we will adding more games until gh flag my acc<br>
 fun fact: i live in japan, so i'm japanese
+ubg420 netlify: https://ubg420.netlify.app/ (unstable)
 # note
 most fnf mods are broken(stuck at loading songs), so plz create issue if game are not loading
